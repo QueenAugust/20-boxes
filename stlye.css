@@ -1,0 +1,44 @@
+p{
+    padding: 15px;
+    display: inline;
+}
+.smallblue{
+    background: blue;
+    border: 5px solid blue;
+    margin: 5px;
+    width:15px;
+    height:15px;
+}
+
+.smallpurple {
+    background: blueviolet;
+    border: 5px solid blueviolet;
+    margin: 5px;
+    width:15px;
+	height:15px;
+}
+.bigwhite {
+    border: 3px solid blue; 
+    height: 100px;
+    width: fit-content;
+    margin: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .bigorange {
+    border: 3px solid blue;
+    height: 100px;
+    width: fit-content;
+    background: orangered;
+    margin: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
